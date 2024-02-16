@@ -1,1 +1,1 @@
-# first-prjt
+# first-project
